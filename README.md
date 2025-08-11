@@ -21,6 +21,13 @@ The search:
 This repo is intentionally minimal and educational, ideal for prototyping, teaching, or extending into a production prototype (vector DB, embeddings, UI).
 ```
 
+#### Diagrammatic Flow
+
+```bash
+https://gitdiagram.com/larrysman/e-commerce-with-nlp
+```
+
+<img width="4140" height="4604" alt="diagram (1)" src="https://github.com/user-attachments/assets/30f0a4c8-331f-480c-ad42-a7dc2c8303ef" />
 
 ### Features:
 
